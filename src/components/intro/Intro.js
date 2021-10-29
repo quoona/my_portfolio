@@ -1,7 +1,12 @@
-import React from "react";
+import React, { useContext } from "react";
 import "./intro.css";
 import right from "../../images/right.jpg";
+import woman2 from "../../images/woman2.jpg";
+import white from "../../images/white.jpg";
+import { ThemeContext } from "../../context";
 function Intro() {
+  const theme = useContext(ThemeContext);
+
   return (
     <div className="i">
       <div className="i-left">
@@ -25,7 +30,11 @@ function Intro() {
         </div>
       </div>
       <div className="i-right">
-        <img src={right} className="i-img" alt="" />
+        <img
+          src={theme.state.darkMode ? woman2 : right}
+          className="i-img"
+          alt=""
+        />
       </div>
     </div>
   );

@@ -10,15 +10,16 @@ export const products = [
     link: "https://github.com/quoona/tesla-clone",
   },
   {
-    id: 2,
-    img: "https://i.ibb.co/PhYtvSJ/instagram-clone.png",
-    link: "https://github.com/quoona/instagrem-clone-reactjs",
-  },
-  {
     id: 3,
     img: "https://i.ibb.co/7rWT880/cakebakery.png",
     link: "https://github.com/quoona/BakeryCake_php",
   },
+  {
+    id: 2,
+    img: "https://i.ibb.co/PhYtvSJ/instagram-clone.png",
+    link: "https://github.com/quoona/instagrem-clone-reactjs",
+  },
+
   {
     id: 5,
     img: "https://i.ibb.co/F8MDr4t/disney.png",
