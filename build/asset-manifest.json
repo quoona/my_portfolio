@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.12242a4e.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.44d7a78e.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.44d7a78e.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.6b4bc271.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.6b4bc271.js.map",
+    "static/js/2.a53da981.chunk.js": "/my_portfolio/static/js/2.a53da981.chunk.js",
+    "static/js/2.a53da981.chunk.js.map": "/my_portfolio/static/js/2.a53da981.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "static/css/main.12242a4e.chunk.css.map": "/my_portfolio/static/css/main.12242a4e.chunk.css.map",
+    "static/js/2.a53da981.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.a53da981.chunk.js.LICENSE.txt",
+    "static/media/cafe.c947c04f.jpg": "/my_portfolio/static/media/cafe.c947c04f.jpg",
+    "static/media/facebook_clone.75e1b1f8.png": "/my_portfolio/static/media/facebook_clone.75e1b1f8.png",
+    "static/media/right.4034d6f8.jpg": "/my_portfolio/static/media/right.4034d6f8.jpg",
+    "static/media/white.e2cbbb2a.jpg": "/my_portfolio/static/media/white.e2cbbb2a.jpg",
+    "static/media/woman2.43c05f0f.jpg": "/my_portfolio/static/media/woman2.43c05f0f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b4bc271.js",
+    "static/js/2.a53da981.chunk.js",
+    "static/css/main.12242a4e.chunk.css",
+    "static/js/main.44d7a78e.chunk.js"
+  ]
+}
