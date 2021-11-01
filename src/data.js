@@ -7,7 +7,7 @@ export const products = [
   {
     id: 1,
     img: "https://i.ibb.co/K6wmVxN/facebook-clone.png",
-    link: "https://github.com/quoona/facebook-clone",
+    link: "https://quoona.github.io/facebook-clone/",
   },
 
   {
