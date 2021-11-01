@@ -2,14 +2,14 @@ export const products = [
   {
     id: 6,
     img: "https://i.ibb.co/3BfMj4z/facebook-retro.png",
-    link: "https://github.com/quoona/facebook-with-retro-theme",
+    link: "https://quoona.github.io/facebook-with-retro-theme/",
   },
   {
     id: 1,
     img: "https://i.ibb.co/K6wmVxN/facebook-clone.png",
     link: "https://github.com/quoona/facebook-clone",
   },
-  
+
   {
     id: 3,
     img: "https://i.ibb.co/7rWT880/cakebakery.png",
